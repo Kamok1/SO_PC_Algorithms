@@ -1,0 +1,14 @@
+C:\Users\kkami\source\repos\SystemOperacyjne\SystemOperacyjne\bin\Debug\net8.0\SystemOperacyjne.exe
+C:\Users\kkami\source\repos\SystemOperacyjne\SystemOperacyjne\bin\Debug\net8.0\SystemOperacyjne.deps.json
+C:\Users\kkami\source\repos\SystemOperacyjne\SystemOperacyjne\bin\Debug\net8.0\SystemOperacyjne.runtimeconfig.json
+C:\Users\kkami\source\repos\SystemOperacyjne\SystemOperacyjne\bin\Debug\net8.0\SystemOperacyjne.dll
+C:\Users\kkami\source\repos\SystemOperacyjne\SystemOperacyjne\bin\Debug\net8.0\SystemOperacyjne.pdb
+C:\Users\kkami\source\repos\SystemOperacyjne\SystemOperacyjne\obj\Debug\net8.0\SystemOperacyjne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkami\source\repos\SystemOperacyjne\SystemOperacyjne\obj\Debug\net8.0\SystemOperacyjne.AssemblyInfoInputs.cache
+C:\Users\kkami\source\repos\SystemOperacyjne\SystemOperacyjne\obj\Debug\net8.0\SystemOperacyjne.AssemblyInfo.cs
+C:\Users\kkami\source\repos\SystemOperacyjne\SystemOperacyjne\obj\Debug\net8.0\SystemOperacyjne.csproj.CoreCompileInputs.cache
+C:\Users\kkami\source\repos\SystemOperacyjne\SystemOperacyjne\obj\Debug\net8.0\SystemOperacyjne.dll
+C:\Users\kkami\source\repos\SystemOperacyjne\SystemOperacyjne\obj\Debug\net8.0\refint\SystemOperacyjne.dll
+C:\Users\kkami\source\repos\SystemOperacyjne\SystemOperacyjne\obj\Debug\net8.0\SystemOperacyjne.pdb
+C:\Users\kkami\source\repos\SystemOperacyjne\SystemOperacyjne\obj\Debug\net8.0\SystemOperacyjne.genruntimeconfig.cache
+C:\Users\kkami\source\repos\SystemOperacyjne\SystemOperacyjne\obj\Debug\net8.0\ref\SystemOperacyjne.dll

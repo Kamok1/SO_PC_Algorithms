@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|c:\\users\\kkami\\source\\repos\\systemoperacyjne\\systemoperacyjne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|solutionrelative:systemoperacyjne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|c:\\users\\kkami\\source\\repos\\systemoperacyjne\\systemoperacyjne\\laby4\\cbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|solutionrelative:systemoperacyjne\\laby4\\cbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|c:\\users\\kkami\\source\\repos\\systemoperacyjne\\systemoperacyjne\\laby4\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|solutionrelative:systemoperacyjne\\laby4\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|c:\\users\\kkami\\source\\repos\\systemoperacyjne\\systemoperacyjne\\laby3\\lru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|solutionrelative:systemoperacyjne\\laby3\\lru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|c:\\users\\kkami\\source\\repos\\systemoperacyjne\\systemoperacyjne\\laby4\\lru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|solutionrelative:systemoperacyjne\\laby4\\lru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|c:\\users\\kkami\\source\\repos\\systemoperacyjne\\systemoperacyjne\\laby4\\generateprocesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|solutionrelative:systemoperacyjne\\laby4\\generateprocesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|c:\\users\\kkami\\source\\repos\\systemoperacyjne\\systemoperacyjne\\laby3\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|solutionrelative:systemoperacyjne\\laby3\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|c:\\users\\kkami\\source\\repos\\systemoperacyjne\\systemoperacyjne\\laby4\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FB917C-CEDD-4CB5-B9D4-65F1A9FE73B4}|SystemOperacyjne\\SystemOperacyjne.csproj|solutionrelative:systemoperacyjne\\laby4\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 315,
+          "SelectedChildIndex": 41,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:624741819:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:412611299:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1726567309:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Program.cs",
+              "RelativeDocumentMoniker": "SystemOperacyjne\\Program.cs",
+              "ToolTip": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Program.cs",
+              "RelativeToolTip": "SystemOperacyjne\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAnwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:54:49.812Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CBS.cs",
+              "DocumentMoniker": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Laby4\\CBS.cs",
+              "RelativeDocumentMoniker": "SystemOperacyjne\\Laby4\\CBS.cs",
+              "ToolTip": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Laby4\\CBS.cs",
+              "RelativeToolTip": "SystemOperacyjne\\Laby4\\CBS.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAIAwwCsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:33:20.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LRU.cs",
+              "DocumentMoniker": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Laby3\\LRU.cs",
+              "RelativeDocumentMoniker": "SystemOperacyjne\\Laby3\\LRU.cs",
+              "ToolTip": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Laby3\\LRU.cs",
+              "RelativeToolTip": "SystemOperacyjne\\Laby3\\LRU.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:20:09.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenerateProcesses.cs",
+              "DocumentMoniker": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Laby4\\GenerateProcesses.cs",
+              "RelativeDocumentMoniker": "SystemOperacyjne\\Laby4\\GenerateProcesses.cs",
+              "ToolTip": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Laby4\\GenerateProcesses.cs",
+              "RelativeToolTip": "SystemOperacyjne\\Laby4\\GenerateProcesses.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAASwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:05:13.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LRU.cs",
+              "DocumentMoniker": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Laby4\\LRU.cs",
+              "RelativeDocumentMoniker": "SystemOperacyjne\\Laby4\\LRU.cs",
+              "ToolTip": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Laby4\\LRU.cs",
+              "RelativeToolTip": "SystemOperacyjne\\Laby4\\LRU.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:03:38.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Requests.cs",
+              "DocumentMoniker": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Laby3\\Requests.cs",
+              "RelativeDocumentMoniker": "SystemOperacyjne\\Laby3\\Requests.cs",
+              "ToolTip": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Laby3\\Requests.cs",
+              "RelativeToolTip": "SystemOperacyjne\\Laby3\\Requests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:01:33.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Process.cs",
+              "DocumentMoniker": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Laby4\\Process.cs",
+              "RelativeDocumentMoniker": "SystemOperacyjne\\Laby4\\Process.cs",
+              "ToolTip": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Laby4\\Process.cs",
+              "RelativeToolTip": "SystemOperacyjne\\Laby4\\Process.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:36:23.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Laby4\\Page.cs",
+              "RelativeDocumentMoniker": "SystemOperacyjne\\Laby4\\Page.cs",
+              "ToolTip": "C:\\Users\\kkami\\source\\repos\\SystemOperacyjne\\SystemOperacyjne\\Laby4\\Page.cs",
+              "RelativeToolTip": "SystemOperacyjne\\Laby4\\Page.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:33:53.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 903,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
